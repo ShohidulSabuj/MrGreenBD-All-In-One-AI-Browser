@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MrGreenBD All in One AI+ Browser</string>
+    <style name="Theme.MrGreenBDBrowser" parent="android:Theme.Material.NoActionBar" />
 </resources>
